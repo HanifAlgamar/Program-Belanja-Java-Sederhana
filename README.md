@@ -1,2 +1,2 @@
 # Program-Belanja-Java-Sederhana
-Program Belanja java sederhana menggunakan perulangan if dan menggunakan scanner pada java
+Program Belanja java sederhana menggunakan perkondisian if dan menggunakan scanner pada java
